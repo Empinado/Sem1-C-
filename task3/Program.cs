@@ -22,7 +22,7 @@ if (number == 2)
     Console.Write("Суббота");
 }if (number == 7)
 {
-    Console.Write("Воскресенье");
+    Console.Write("Воскресение");
 }
 
 
